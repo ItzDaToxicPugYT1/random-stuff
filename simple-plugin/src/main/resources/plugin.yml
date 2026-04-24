@@ -1,0 +1,6 @@
+name: HelloPlugin
+version: "${version}"
+main: com.example.helloplugin.HelloPlugin
+api-version: "1.21"
+description: A simple hello world Paper plugin
+author: Devin
